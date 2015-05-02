@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>42ccf9c3-67fc-4242-8b70-a5ef5d78d4d1</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>ListaDeLeitura</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DataSource\IRssDataSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataSource\RssDataSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\RssArticle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\ModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ArticlePageViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ViewModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Command\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\HomePageViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\Handler\NavigateMessageHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\Messenger.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\NavigateMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ViewModelLocator.cs" />
+  </ItemGroup>
+</Project>
