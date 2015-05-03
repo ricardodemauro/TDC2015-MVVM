@@ -31,7 +31,7 @@ namespace ListaDeLeitura.ViewModel
             this.Items = new ObservableCollection<RssArticle>();
 
             this.NavigateToArticleCommand = new RelayCommand(OnNavigateToArticleCommand);
-            this.RefreshCommand = new RelayCommand(OnRefreshCommand, CanExecuteRefreshCommand);
+            this.RefreshCommand = new RelayCommand(OnRefreshCommand);
 
             Refresh();
         }
@@ -39,11 +39,6 @@ namespace ListaDeLeitura.ViewModel
         private void OnNavigateToArticleCommand(object parameter)
         {
             PublishMessage(new NavigateMessage("ArticlePage", parameter));
-        }
-
-        private bool CanExecuteRefreshCommand(object parameter)
-        {
-            return !Refreshing;
         }
 
         private void OnRefreshCommand(object parameter)
