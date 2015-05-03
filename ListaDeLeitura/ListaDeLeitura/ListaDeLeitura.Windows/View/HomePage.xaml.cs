@@ -23,6 +23,9 @@ namespace ListaDeLeitura.View
     /// </summary>
     public sealed partial class HomePage : Page
     {
-        
+        public HomePage()
+        {
+            InitializeComponent();
+        }
     }
 }
