@@ -6,6 +6,11 @@ namespace ListaDeLeitura.ViewModel
 {
     public class ViewModelLocator
     {
+        static ViewModelLocator()
+        {
+
+        }
+
         public HomePageViewModel Main
         {
             get

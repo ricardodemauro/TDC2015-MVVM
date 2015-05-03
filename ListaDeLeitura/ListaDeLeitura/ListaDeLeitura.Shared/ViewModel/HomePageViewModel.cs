@@ -59,7 +59,7 @@ namespace ListaDeLeitura.ViewModel
 
             try
             {
-                var list = await DataSource.RssDataSource.Instance.GetArticles();
+                IList<RssArticle> list = await DataSource.RssDataSource.Instance.GetArticles();
                 foreach (var item in list)
                 {
                     Items.Add(item);

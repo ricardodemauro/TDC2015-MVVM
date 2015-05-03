@@ -6,25 +6,32 @@ namespace ListaDeLeitura.Model
 {
     public class RssArticle : ModelBase
     {
-        private Uri _link;
+        private Uri link;
         public Uri Link
         {
-            get { return _link; }
-            set { SetProperty(ref _link, value); }
+            get { return link; }
+            set { SetProperty(ref link, value); }
         }
 
-        private string _summary;
+        private string summary;
         public string Summary
         {
-            get { return _summary; }
-            set { SetProperty(ref _summary, value); }
+            get { return summary; }
+            set { SetProperty(ref summary, value); }
         }
 
-        private string _title;
+        private string title;
         public string Title
         {
-            get { return _title; }
-            set { SetProperty(ref _title, value); }
+            get { return title; }
+            set { SetProperty(ref title, value); }
+        }
+
+        private DateTime pubDate;
+        public DateTime PubDate
+        {
+            get { return pubDate; }
+            set { SetProperty(ref pubDate, value); }
         }
     }
 }

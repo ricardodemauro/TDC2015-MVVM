@@ -19,6 +19,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)DataSource\RssDataSource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\RssArticle.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\ModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\RssImage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ArticlePageViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ViewModelBase.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Command\RelayCommand.cs" />
@@ -27,5 +28,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\Messenger.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\NavigateMessage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ViewModelLocator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)SampleData\SampleDataFeed.xml" />
   </ItemGroup>
 </Project>
