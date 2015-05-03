@@ -22,6 +22,15 @@ namespace ListaDeLeitura.ViewModel.Command
             CanExecuteFunction = canExecuteFunction;
         }
 
+        public void RaiseCanExecuteChanged()
+        {
+            var handler = CanExecuteChanged;
+            if (handler != null)
+            {
+                handler(this, EventArgs.Empty);
+            }
+        }
+
         #region ICommand implementation
         public bool CanExecute(object parameter)
         {

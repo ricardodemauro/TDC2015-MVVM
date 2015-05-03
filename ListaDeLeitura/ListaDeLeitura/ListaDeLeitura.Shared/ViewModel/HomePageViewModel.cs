@@ -14,8 +14,8 @@ namespace ListaDeLeitura.ViewModel
 {
     public class HomePageViewModel : ViewModelBase
     {
-        public ICommand NavigateToArticleCommand { get; set; }
-        public ICommand RefreshCommand { get; set; }
+        public RelayCommand NavigateToArticleCommand { get; set; }
+        public RelayCommand RefreshCommand { get; set; }
 
         public ObservableCollection<RssArticle> Items { get; set; }
 
@@ -23,7 +23,7 @@ namespace ListaDeLeitura.ViewModel
         public bool Refreshing
         {
             get { return _refreshing; }
-            set { SetProperty(ref _refreshing, value); }
+            set { SetProperty(ref _refreshing, value); this.RefreshCommand.RaiseCanExecuteChanged(); }
         }
 
         public HomePageViewModel()
@@ -31,7 +31,7 @@ namespace ListaDeLeitura.ViewModel
             this.Items = new ObservableCollection<RssArticle>();
 
             this.NavigateToArticleCommand = new RelayCommand(OnNavigateToArticleCommand);
-            this.RefreshCommand = new RelayCommand(OnRefreshCommand);
+            this.RefreshCommand = new RelayCommand(OnRefreshCommand, CanExecuteRefreshCommand);
 
             Refresh();
         }
@@ -39,6 +39,11 @@ namespace ListaDeLeitura.ViewModel
         private void OnNavigateToArticleCommand(object parameter)
         {
             PublishMessage(new NavigateMessage("ArticlePage", parameter));
+        }
+
+        private bool CanExecuteRefreshCommand(object parameter)
+        {
+            return !Refreshing;
         }
 
         private void OnRefreshCommand(object parameter)
