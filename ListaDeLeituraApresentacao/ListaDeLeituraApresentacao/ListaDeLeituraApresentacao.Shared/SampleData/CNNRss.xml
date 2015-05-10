@@ -1,0 +1,968 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>CNN.com - Top Stories</title>
+    <link>http://edition.cnn.com/index.html?eref=edition</link>
+    <description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+    <language>en-US</language>
+    <copyright>Copyright 2015 Cable News Network LP, LLLP.</copyright>
+    <pubDate>Sat, 02 May 2015 21:23:15 EDT</pubDate>
+    <ttl>10</ttl>
+    <image>
+      <title>CNN.com - Top Stories</title>
+      <link>http://edition.cnn.com/index.html?eref=edition</link>
+      <url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+      <width>144</width>
+      <height>33</height>
+      <description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+    </image>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/edition" />
+    <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Duchess leaves hospital with new baby</title>
+      <guid>http://edition.cnn.com/2015/05/02/europe/uk-royal-baby-duchess-of-cambridge-hospitalized/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/europe/uk-royal-baby-duchess-of-cambridge-hospitalized/index.html?eref=edition</link>
+      <description>Less than 12 hours after giving birth to her second child, the Duchess of Cambridge leaves hospital with her new baby girl -- the fourth in line to the British throne.</description>
+      <pubDate>Sat, 02 May 2015 21:18:52 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502135257-03-royal-baby---close-up-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502135257-03-royal-baby---close-up-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Royals show off new daughter</title>
+      <guid>http://edition.cnn.com/2015/05/02/world/gallery/royal-baby-princess-announced/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/world/gallery/royal-baby-princess-announced/index.html?eref=edition</link>
+      <description>Britain's newest princess, the daughter of Catherine, Duchess of Cambridge, and Prince William, made her public debut Saturday in front of the hospital where she was born. </description>
+      <pubDate>Sat, 02 May 2015 14:52:49 EDT</pubDate>
+    </item>
+    <item>
+      <title>Crowd waits hours for glimpse of royal baby</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/world/2015/05/02/cnni-vo-royal-baby-stakeout-time-lapse.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/world/2015/05/02/cnni-vo-royal-baby-stakeout-time-lapse.cnn.html?eref=edition</link>
+      <description>Dedicated journalists and loyal subjects alike waited for hours outside London's St. Mary's Hospital, anxiously awaiting the arrival of the new royal baby.</description>
+      <pubDate>Sat, 02 May 2015 21:13:48 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502184335-royal-baby-stakeout-top-tease.png" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502184335-royal-baby-stakeout-top-tease.png" />
+    </item>
+    <item>
+      <title>Cheeky Federer congratulates royals</title>
+      <guid>http://edition.cnn.com/2015/05/02/tennis/roger-federer-royal-baby-tennis-news/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/tennis/roger-federer-royal-baby-tennis-news/index.html?eref=edition</link>
+      <description>Tennis superstar Roger Federer has taken time out from his Turkey adventure to congratulate the British royal family on its latest addition with a cheeky tweet.</description>
+      <pubDate>Sat, 02 May 2015 21:14:56 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150503010848-roger-federer-turkey-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150503010848-roger-federer-turkey-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Name the baby: Could she be a Charlotte or a Tracey?</title>
+      <guid>http://edition.cnn.com/2015/05/02/living/royal-baby-name-feat/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/living/royal-baby-name-feat/index.html?eref=edition</link>
+      <description>The Royal Baby Name Game has begun.</description>
+      <pubDate>Sat, 02 May 2015 15:16:18 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502135257-03-royal-baby---close-up-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502135257-03-royal-baby---close-up-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Duties vs. parties: The difficult life of the 'spare heir'</title>
+      <guid>http://edition.cnn.com/2015/05/02/europe/royal-baby-spare-heir-difficulties/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/europe/royal-baby-spare-heir-difficulties/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 21:05:30 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150410123900-prince-harry-laughing-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150410123900-prince-harry-laughing-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Boeing Dreamliners could lose all power</title>
+      <guid>http://edition.cnn.com/2015/05/02/us/boeing-787-dreamliner-faa-directive/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/us/boeing-787-dreamliner-faa-directive/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 14:06:09 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/140114134011-787-dreamliner-battery-exhaust-vent-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/140114134011-787-dreamliner-battery-exhaust-vent-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Student arrested in North Korea</title>
+      <guid>http://edition.cnn.com/2015/05/02/asia/north-korea-south-korean-u-s-resident-detained/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/asia/north-korea-south-korean-u-s-resident-detained/index.html?eref=edition</link>
+      <description>A South Korean who lives in New Jersey was arrested last week for crossing into North Korean illegally, the North Korean Central News Agency reported Saturday. </description>
+      <pubDate>Sat, 02 May 2015 20:20:03 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501203759-exp-gps-harden-sot-north-korea-00000417-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501203759-exp-gps-harden-sot-north-korea-00000417-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Police brutality protests across U.S.</title>
+      <guid>http://edition.cnn.com/2015/05/02/us/freddie-gray-baltimore-death/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/us/freddie-gray-baltimore-death/index.html?eref=edition</link>
+      <description>A day after the announcement of charges against six Baltimore police officers, the city -- and nation -- saw rallies and protests Saturday over Freddie Gray's death in police custody. </description>
+      <pubDate>Sat, 02 May 2015 17:16:10 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430035924-freddie-gray-arrest-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430035924-freddie-gray-arrest-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Raped 10 year old refused abortion</title>
+      <guid>http://edition.cnn.com/2015/05/01/americas/paraguay-girl-rape-pregnancy/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/americas/paraguay-girl-rape-pregnancy/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 21:13:00 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501225016-pkg-romo-paraguay-pregnant-10-year-old-00020630-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501225016-pkg-romo-paraguay-pregnant-10-year-old-00020630-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Nepal quake: More than 7,000 dead</title>
+      <guid>http://edition.cnn.com/2015/05/02/asia/nepal-earthquake/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/asia/nepal-earthquake/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 11:01:08 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501125459-04-nepal-0501-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501125459-04-nepal-0501-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Car show crane collapse kills 1</title>
+      <guid>http://edition.cnn.com/2015/05/02/europe/netherlands-crane-collapse-car-show/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/europe/netherlands-crane-collapse-car-show/index.html?eref=edition</link>
+      <description>A 48-year-old man died and 10 people -- seven of them children -- suffered significant injuries after a crane collapsed Saturday at a car show in the Netherlands, police said.</description>
+      <pubDate>Sat, 02 May 2015 14:10:00 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150325082132-social-gfx-breaking-news-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150325082132-social-gfx-breaking-news-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Soccer star Rio Ferdinand's wife dies</title>
+      <guid>http://edition.cnn.com/2015/05/02/football/rio-ferdinand-mourns-wife-football-news/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/football/rio-ferdinand-mourns-wife-football-news/index.html?eref=edition</link>
+      <description>English soccer star Rio Ferdinand paid tribute to his "wonderful wife" on Saturday after she passed away following a short battle with cancer.</description>
+      <pubDate>Sat, 02 May 2015 15:08:12 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502191337-rio-ferdinand-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502191337-rio-ferdinand-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Survivor found at mass grave</title>
+      <guid>http://edition.cnn.com/2015/05/02/asia/thailand-mass-graves/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/asia/thailand-mass-graves/index.html?eref=edition</link>
+      <description>At least 30 graves containing human remains have been found in a "detention camp" in southern Thailand, along with a lone male survivor, Thai authorities said.</description>
+      <pubDate>Sat, 02 May 2015 14:34:02 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/140903111421-cnn-logo-2-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/140903111421-cnn-logo-2-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Mayweather vs. Pacquiao by the numbers</title>
+      <guid>http://edition.cnn.com/2015/05/01/sport/mayweather-pacquiao-by-the-numbers/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/sport/mayweather-pacquiao-by-the-numbers/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 21:05:17 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150427144513-mayweather-pacquiao-composite-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150427144513-mayweather-pacquiao-composite-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Filipinos betting on a 'Pacman' victory</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/world/2015/05/02/lok-watson-philippines-betting-pacquiao-mayweather.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/world/2015/05/02/lok-watson-philippines-betting-pacquiao-mayweather.cnn.html?eref=edition</link>
+      <description>CNN's Ivan Watson is in Manila, where fans are lining up to bet on a Pacquiao victory.</description>
+      <pubDate>Sat, 02 May 2015 21:07:31 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502074229-lok-watson-philippines-betting-pacquiao-mayweather-00013122-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502074229-lok-watson-philippines-betting-pacquiao-mayweather-00013122-top-tease.jpg" />
+    </item>
+    <item>
+      <title>'Pacman fever' sweeps across Philippines </title>
+      <guid>http://edition.cnn.com/2015/05/01/sport/manny-pacquiao-philippines-fans/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/sport/manny-pacquiao-philippines-fans/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 14:43:02 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150302210238-pacquiao-fighting-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150302210238-pacquiao-fighting-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Has boxing hit its peak with fight?</title>
+      <guid>http://edition.cnn.com/2015/05/01/sport/mayweather-pacquiao-feat/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/sport/mayweather-pacquiao-feat/index.html?eref=edition</link>
+      <description>This is the mega-fight. Possibly the biggest fight of our lifetimes, a blue-moon opportunity to see two of the world's greatest fighters go toe to toe. It's Ali-Frazier for the modern era, with media coverage dwarfing even that most famous of fights. </description>
+      <pubDate>Sat, 02 May 2015 21:09:04 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501143757-mayweather-pacquiao-presser-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501143757-mayweather-pacquiao-presser-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Why we crave drama of fight</title>
+      <guid>http://edition.cnn.com/2015/04/30/opinions/gottschall-pacquiao-mayweather-fight/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/opinions/gottschall-pacquiao-mayweather-fight/index.html?eref=edition</link>
+      <description>This weekend, millions of people are expected to tune in to watch two men beat each other up. Why is this?</description>
+      <pubDate>Sat, 02 May 2015 21:09:33 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429153411-gottschall-pacquiao-mayweather-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429153411-gottschall-pacquiao-mayweather-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Step inside the fight ring </title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/sports/2015/05/02/sports-pkg-riddell-inside-the-ring.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/sports/2015/05/02/sports-pkg-riddell-inside-the-ring.cnn.html?eref=edition</link>
+      <description>CNN's Don Riddell goes behind the scenes at the MGM Grand in Las Vegas ahead of the historic Mayweather vs. Pacquiao fight.</description>
+      <pubDate>Sat, 02 May 2015 21:08:29 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502174808-sports-pkg-riddell-inside-the-ring-00001107-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502174808-sports-pkg-riddell-inside-the-ring-00001107-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Invited back to North Korea, but why?</title>
+      <guid>http://edition.cnn.com/2015/05/02/asia/cnn-inside-north-korea/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/asia/cnn-inside-north-korea/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 21:11:09 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150419134331-01-kim-jong-un-mountain-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150419134331-01-kim-jong-un-mountain-top-tease.jpg" />
+    </item>
+    <item>
+      <title>American Pharoah wins Kentucky Derby</title>
+      <guid>http://edition.cnn.com/2015/05/02/sport/kentucky-derby-american-pharoah/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/sport/kentucky-derby-american-pharoah/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 21:10:29 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502190032-02-american-pharoah-kentucky-derby-winner-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502190032-02-american-pharoah-kentucky-derby-winner-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Soldiers in 'child sex for food' scandal</title>
+      <guid>http://edition.cnn.com/2015/04/30/world/france-un-car-sex-abuse-claims/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/world/france-un-car-sex-abuse-claims/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 22:48:27 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430122234-hollande-car-file-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430122234-hollande-car-file-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Rare earthquake shakes Michigan</title>
+      <guid>http://edition.cnn.com/2015/05/02/us/michigan-earthquake/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/us/michigan-earthquake/index.html?eref=edition</link>
+      <description>A rare earthquake, registering 4.2 magnitude, rattled the western part of Michigan on Saturday afternoon, the U.S. Geologic Survey reported.</description>
+      <pubDate>Sat, 02 May 2015 16:34:46 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150325082132-social-gfx-breaking-news-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150325082132-social-gfx-breaking-news-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Clashes at Seattle May Day march</title>
+      <guid>http://edition.cnn.com/2015/05/02/us/seattle-police-injured/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/us/seattle-police-injured/index.html?eref=edition</link>
+      <description>Three Seattle police officers were injured during clashes with protesters at the annual May Day march. </description>
+      <pubDate>Sat, 02 May 2015 12:40:13 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502060601-seattle-may-day-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502060601-seattle-may-day-top-tease.jpg" />
+    </item>
+    <item>
+      <title>U.S. official called 'dumb blonde'</title>
+      <guid>http://edition.cnn.com/2015/05/01/politics/ankara-mayor-marie-harf-dumb-blonde/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/politics/ankara-mayor-marie-harf-dumb-blonde/index.html?eref=edition</link>
+      <description>First we were all Americans. Then we were all Charlie Hebdo. Now we're all blonde.</description>
+      <pubDate>Fri, 01 May 2015 21:28:46 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501180501-marie-harf-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501180501-marie-harf-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Nepal: Aid not getting through</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/world/2015/05/01/qmb-nepal-earthquake-aid-ram-sharan-mahat-intv.cnn-ap.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/world/2015/05/01/qmb-nepal-earthquake-aid-ram-sharan-mahat-intv.cnn-ap.html?eref=edition</link>
+      <description>Nepalese Finance Minister Ram Sharan Mahat speaks to CNN's Richard Quest about the problems they are having getting aid from the global community.</description>
+      <pubDate>Sat, 02 May 2015 03:26:45 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429135756-nepal-aid-mission-gallery-4-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429135756-nepal-aid-mission-gallery-4-top-tease.jpg" />
+    </item>
+    <item>
+      <title>'Stand By Me' singer dies</title>
+      <guid>http://edition.cnn.com/2015/05/01/entertainment/ben-e-king-singer-obit-feat/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/entertainment/ben-e-king-singer-obit-feat/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 17:37:25 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501105216-02-ben-e-king-restricted-0501-tease-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501105216-02-ben-e-king-restricted-0501-tease-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Malaysia Airlines offloads superjumbos</title>
+      <guid>http://edition.cnn.com/2015/05/01/travel/malaysia-airlines-sales/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/travel/malaysia-airlines-sales/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 23:54:23 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/120412075846-malaysia-airlines-a380-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/120412075846-malaysia-airlines-a380-top-tease.jpg" />
+    </item>
+    <item>
+      <title>'Unselfish' Messi lets Ronaldo get ahead</title>
+      <guid>http://edition.cnn.com/2015/05/02/football/ronaldo-messi-spain-football-news/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/football/ronaldo-messi-spain-football-news/index.html?eref=edition</link>
+      <description>The heat is on in Spain -- but Cristiano Ronaldo has overcome his recent goal drought to regain scoring supremacy in his battle with Lionel Messi.</description>
+      <pubDate>Sat, 02 May 2015 18:01:12 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502214336-cristiano-ronaldo-celebrates-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502214336-cristiano-ronaldo-celebrates-top-tease.jpg" />
+    </item>
+    <item>
+      <title>UK politics: More dysfunctional than U.S.?</title>
+      <guid>http://edition.cnn.com/2015/05/01/politics/uk-elections-david-cameron-ed-milliband/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/politics/uk-elections-david-cameron-ed-milliband/index.html?eref=edition</link>
+      <description>Leeds, United Kingdom -- If politicians feel unloved in America, they should try Britain.</description>
+      <pubDate>Sat, 02 May 2015 00:03:19 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501120210-cameron-milliband-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501120210-cameron-milliband-top-tease.jpg" />
+    </item>
+    <item>
+      <title>B.B. King 'in hospice care' </title>
+      <guid>http://edition.cnn.com/2015/05/01/us/bb-king-in-home-hospice-care/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/us/bb-king-in-home-hospice-care/index.html?eref=edition</link>
+      <description>Blues legend B.B. King is battling health problems, with a message on his website saying the 89-year-old musician is in "home hospice care."</description>
+      <pubDate>Fri, 01 May 2015 22:50:56 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/141007170024-17-b-b-king-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/141007170024-17-b-b-king-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Why police van death was ruled homicide </title>
+      <guid>http://edition.cnn.com/2015/05/01/us/freddie-gray-officers-actions/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/us/freddie-gray-officers-actions/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 14:30:02 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501200352-baltimore-officers-charged-montage-top-tease.jpeg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501200352-baltimore-officers-charged-montage-top-tease.jpeg" />
+    </item>
+    <item>
+      <title>Why was this car hidden away for 30 years? </title>
+      <guid>http://edition.cnn.com/2015/05/01/world/shelby-daytona-cobra-coupe/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/world/shelby-daytona-cobra-coupe/index.html?eref=edition</link>
+      <description>The Shelby Daytona Cobra Coupe's extraordinary story includes beating Ferrari, being driven by Phil Spector, and finally discovered again after 30 years.</description>
+      <pubDate>Sat, 02 May 2015 21:06:30 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501111132-shelby-daytona-tease-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501111132-shelby-daytona-tease-top-tease.jpg" />
+    </item>
+    <item>
+      <title>This site tells you how old you really look</title>
+      <guid>http://edition.cnn.com/2015/05/01/tech/how-old-do-you-look-website/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/tech/how-old-do-you-look-website/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 21:05:54 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501171516-howold-12-top-tease.png" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501171516-howold-12-top-tease.png" />
+    </item>
+    <item>
+      <title>Man hangs up on the Pope -- twice</title>
+      <guid>http://edition.cnn.com/2015/05/01/europe/man-hangs-up-on-pope/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/europe/man-hangs-up-on-pope/index.html?eref=edition</link>
+      <description>Good thing Pope Francis has a sense of humor.</description>
+      <pubDate>Sat, 02 May 2015 05:46:42 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150325082132-social-gfx-breaking-news-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150325082132-social-gfx-breaking-news-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Chinese 'ghost mall' back from the dead?</title>
+      <guid>http://edition.cnn.com/2015/04/28/asia/china-ghost-mall-return-to-life/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/28/asia/china-ghost-mall-return-to-life/index.html?eref=edition</link>
+      <description>For a decade, the New South China Mall -- the biggest shopping mall in the world -- has been an embarrassment for its owners and China.</description>
+      <pubDate>Sat, 02 May 2015 04:38:29 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150406142655-dsc-3459-top-tease.jpeg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150406142655-dsc-3459-top-tease.jpeg" />
+    </item>
+    <item>
+      <title>Japanese sex slave fights for justice</title>
+      <guid>http://edition.cnn.com/2015/04/29/asia/will-ripley-japan-comfort-women/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/29/asia/will-ripley-japan-comfort-women/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 00:24:40 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429062811-pkg-ripley-japan-comfort-woman-00002207-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429062811-pkg-ripley-japan-comfort-woman-00002207-top-tease.jpg" />
+    </item>
+    <item>
+      <title>First Air Force One wasting away in desert</title>
+      <guid>http://edition.cnn.com/2015/05/01/politics/first-air-force-one-columbine-arizona-desert/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/politics/first-air-force-one-columbine-arizona-desert/index.html?eref=edition</link>
+      <description></description>
+      <pubDate>Sat, 02 May 2015 21:11:52 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150405145200-first-air-force-one-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150405145200-first-air-force-one-top-tease.jpg" />
+    </item>
+    <item>
+      <title>No dodging this bullet: self-guided ammunition unveiled</title>
+      <guid>http://edition.cnn.com/2015/04/29/us/us-military-self-guided-bullet/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/29/us/us-military-self-guided-bullet/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 10:23:42 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150129180257-smart-bullet-change-direction-mid-air-orig-nws-00010016-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150129180257-smart-bullet-change-direction-mid-air-orig-nws-00010016-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Soccer legend making more money in retirement</title>
+      <guid>http://edition.cnn.com/2015/05/01/football/david-beckham-40th-birthday/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/football/david-beckham-40th-birthday/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 21:20:58 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429180332-david-beckham-tease-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429180332-david-beckham-tease-top-tease.jpg" />
+    </item>
+    <item>
+      <title>The best boxing bouts of all-time</title>
+      <guid>http://edition.cnn.com/2015/05/01/sport/gallery/best-boxing-bouts-of-all-time/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/sport/gallery/best-boxing-bouts-of-all-time/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 03:45:29 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429113628-01-top-ten-bouts-of-all-time-0429-restricted-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429113628-01-top-ten-bouts-of-all-time-0429-restricted-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Tiny team win $180 million payday</title>
+      <guid>http://edition.cnn.com/2015/05/01/football/bournemouth-premier-league-ten-things/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/football/bournemouth-premier-league-ten-things/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 14:03:07 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501130003-afcb-players-celebrate-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501130003-afcb-players-celebrate-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Horses scoring home runs. Yes, really.</title>
+      <guid>http://edition.cnn.com/2015/05/01/sport/home-runs-kentucky-derby-feat/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/sport/home-runs-kentucky-derby-feat/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 20:55:41 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501122716-baseball-bat-tease-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501122716-baseball-bat-tease-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Elsewhere it's a family pet. Here it's dinner</title>
+      <guid>http://edition.cnn.com/2015/05/01/travel/ecuador-11-things/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/travel/ecuador-11-things/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 05:35:31 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150414193030-ecuador-11-things-guinea-pigs2-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150414193030-ecuador-11-things-guinea-pigs2-top-tease.jpg" />
+    </item>
+    <item>
+      <title>The weird, wired cruise ship of the future</title>
+      <guid>http://edition.cnn.com/2015/04/28/travel/anthem-of-the-seas-launch/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/28/travel/anthem-of-the-seas-launch/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 10:13:36 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150424123233-anthem-of-the-seas-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150424123233-anthem-of-the-seas-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Niche cuisine surprise</title>
+      <guid>http://edition.cnn.com/2015/05/01/travel/why-your-next-food-porn-will-come-from-ethiopia/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/travel/why-your-next-food-porn-will-come-from-ethiopia/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 11:15:40 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150427150133-ethiopia-food-teff-lasagne-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150427150133-ethiopia-food-teff-lasagne-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Expo 2015: The most impressive pavilion designs</title>
+      <guid>http://edition.cnn.com/2015/04/30/travel/gallery/expo-2015-pavilions/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/travel/gallery/expo-2015-pavilions/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 12:15:40 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429112338-expo-italy-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429112338-expo-italy-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Biggest photo contest picks winners</title>
+      <guid>http://edition.cnn.com/2015/03/30/world/gallery/2015-sony-world-photography-awards/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/30/world/gallery/2015-sony-world-photography-awards/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sun, 26 Apr 2015 07:03:08 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150424115939-sony-awards-lifestyle-tease-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150424115939-sony-awards-lifestyle-tease-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Are these watches worth a million bucks?</title>
+      <guid>http://edition.cnn.com/2015/04/27/world/hodinkee-clymer-watches/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/27/world/hodinkee-clymer-watches/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 30 Apr 2015 01:46:50 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429113220-hodinkee-tease-2-top-tease.png" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429113220-hodinkee-tease-2-top-tease.png" />
+    </item>
+    <item>
+      <title>Back to the moon: One small step for a robotic chimp?</title>
+      <guid>http://edition.cnn.com/2015/04/30/tech/mci-robochimp/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/tech/mci-robochimp/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 30 Apr 2015 12:05:26 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150422175307-dfki-robochimp-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150422175307-dfki-robochimp-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Latest killer: The self-guiding bullet</title>
+      <guid>http://edition.cnn.com/2015/04/29/us/us-military-self-guided-bullet/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/29/us/us-military-self-guided-bullet/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 30 Apr 2015 07:56:59 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150129180257-smart-bullet-change-direction-mid-air-orig-nws-00010016-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150129180257-smart-bullet-change-direction-mid-air-orig-nws-00010016-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Royal welcome</title>
+      <guid>http://edition.cnn.com/2013/05/01/world/defining-moments/index.html</guid>
+      <link>http://edition.cnn.com/2013/05/01/world/defining-moments/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 30 Apr 2015 11:05:15 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430155818-royalists-lindo-wing-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430155818-royalists-lindo-wing-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Royals welcome new daughter</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/tv/2015/05/02/newday-sot-royal-baby-birth-announcement.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/tv/2015/05/02/newday-sot-royal-baby-birth-announcement.cnn.html?eref=edition</link>
+      <description>The wait for the second royal baby is over. Officials announce that the Duchess of Cambridge gave birth to a daughter.</description>
+      <pubDate>Sat, 02 May 2015 07:39:55 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502062731-newday-sot-royal-baby-birth-announcement-00005517-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502062731-newday-sot-royal-baby-birth-announcement-00005517-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Drone footage captures magnitude of Nepal destruction</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/world/2015/04/29/natpkg-nepal-kathmandu-drone.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/world/2015/04/29/natpkg-nepal-kathmandu-drone.cnn.html?eref=edition</link>
+      <description>CNN shot incredible new drone footage that captures the sheer magnitude of the destruction in Nepal. </description>
+      <pubDate>Thu, 30 Apr 2015 12:55:28 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429083908-natpkg-nepal-kathmandu-drone-00002217-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429083908-natpkg-nepal-kathmandu-drone-00002217-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Photos taken by a tourist of Nepal devastation</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/world/2015/04/29/pkg-agrawa-nepal-earthquake.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/world/2015/04/29/pkg-agrawa-nepal-earthquake.cnn.html?eref=edition</link>
+      <description>Jesse Anderson, a CNN iReporter, took these photos about an hour after the 7.8 magnitude earthquake hit Nepal. </description>
+      <pubDate>Thu, 30 Apr 2015 06:17:38 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429170030-pkg-agrawa-nepal-earthquake-00005624-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429170030-pkg-agrawa-nepal-earthquake-00005624-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Baltimore mom smacks protesting son</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/us/2015/04/28/baltimore-mom-slaps-rioter-son-newday-daily-hit.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/us/2015/04/28/baltimore-mom-slaps-rioter-son-newday-daily-hit.cnn.html?eref=edition</link>
+      <description>A mother in Baltimore caught her son, whom she suspected of rioting, and hit him. She sent him home on live TV.</description>
+      <pubDate>Thu, 30 Apr 2015 06:18:50 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150428083936-baltimore-mom-slaps-rioting-son-top-tease.png" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150428083936-baltimore-mom-slaps-rioting-son-top-tease.png" />
+    </item>
+    <item>
+      <title>Ring announcer: Pacman and Mayweather 'Ready to Rumble'</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/sports/2015/04/30/orig-boxing-michael-buffer-pacquiao-mayweather.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/sports/2015/04/30/orig-boxing-michael-buffer-pacquiao-mayweather.cnn.html?eref=edition</link>
+      <description>Boxing Announcer, Michael Buffer talks about his famous "Let's get Ready to Rumble" phrase and the mega-fight between Mayweather and Pacquiao.</description>
+      <pubDate>Sat, 02 May 2015 07:39:05 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430105231-orig-boxing-michael-buffer-pacquiao-mayweather-00022329-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430105231-orig-boxing-michael-buffer-pacquiao-mayweather-00022329-top-tease.jpg" />
+    </item>
+    <item>
+      <title>From selfie stick to selfie arm?</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/us/2015/04/29/erin-pkg-moos-selfie-arm.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/us/2015/04/29/erin-pkg-moos-selfie-arm.cnn.html?eref=edition</link>
+      <description>Selfie stick gets upgraded to selfie arm! CNN's Jeanne Moos reports it'll make selfies look less lonely.</description>
+      <pubDate>Thu, 30 Apr 2015 06:14:35 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429230315-erin-pkg-moos-selfie-arm-00003612-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429230315-erin-pkg-moos-selfie-arm-00003612-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Footage shows huge stately home in flames</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/tv/2015/04/30/orig-stately-house-surrey-fire.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/tv/2015/04/30/orig-stately-house-surrey-fire.cnn.html?eref=edition</link>
+      <description>A huge stately home in Surrey, UK has burnt down losing centuries of historical paintings, sculptures and antiques.</description>
+      <pubDate>Thu, 30 Apr 2015 10:08:09 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430150034-orig-stately-house-surrey-fire-00002926-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430150034-orig-stately-house-surrey-fire-00002926-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Russian spacecraft spins out of control</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/tech/2015/04/29/russian-spacecraft-lost-contact-orig.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/tech/2015/04/29/russian-spacecraft-lost-contact-orig.cnn.html?eref=edition</link>
+      <description>Russia is trying to figure out its next steps after losing contact with an unmanned spacecraft on a resupply mission to the International Space Station.</description>
+      <pubDate>Thu, 30 Apr 2015 06:18:22 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150114081739-nasa-international-space-station-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150114081739-nasa-international-space-station-top-tease.jpg" />
+    </item>
+    <item>
+      <title>100 million-year-old sea monster fossil discovered</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/world/2015/04/28/orig-farmer-finds-sea-monster-fossil.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/world/2015/04/28/orig-farmer-finds-sea-monster-fossil.cnn.html?eref=edition</link>
+      <description>A farmer in Australia discovered a fossil belonging to a 100 million-year-old sea predator known as a "Kronosaurus."</description>
+      <pubDate>Thu, 30 Apr 2015 06:18:49 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150428140836-kronosaurus---image-courtesy-of-lisa-wallace-and-kronosaurus-korne-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150428140836-kronosaurus---image-courtesy-of-lisa-wallace-and-kronosaurus-korne-top-tease.jpg" />
+    </item>
+    <item>
+      <title>This is the last man to beat Floyd Mayweather</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/sports/2015/04/27/pkg-last-man-to-beat-mayweather-todorov-pacquiao.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/sports/2015/04/27/pkg-last-man-to-beat-mayweather-todorov-pacquiao.cnn.html?eref=edition</link>
+      <description>Serafim Todorov beat Floyd Mayweather at the Atlanta Olympics in 1996. He describes his life now as 'torture'. </description>
+      <pubDate>Tue, 28 Apr 2015 07:52:14 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150427112735-pkg-last-man-to-beat-mayweather-todorov-pacquiao-00025615-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150427112735-pkg-last-man-to-beat-mayweather-todorov-pacquiao-00025615-top-tease.jpg" />
+    </item>
+    <item>
+      <title>The Fighters: Watch the full documentary</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/international/2013/05/20/the-fighters-full-episode.cnn-freedom-project.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/international/2013/05/20/the-fighters-full-episode.cnn-freedom-project.html?eref=edition</link>
+      <description>Go inside the anti-trafficking fight in the Philippines where one activist wins support from Manny Pacquiao.</description>
+      <pubDate>Wed, 29 Apr 2015 08:59:52 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150416100728-pacquiao-2-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150416100728-pacquiao-2-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Swiss physicist uses lasers to change the weather </title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/tv/2015/04/23/spc-make-create-innovate-laser-cloud.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/tv/2015/04/23/spc-make-create-innovate-laser-cloud.cnn.html?eref=edition</link>
+      <description>Nick Glass travels to Switzerland to meet a scientist using lasers to try and manipulate the weather.</description>
+      <pubDate>Tue, 28 Apr 2015 07:53:15 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150424094531-mcli-laser-cloud-tease-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150424094531-mcli-laser-cloud-tease-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Freddie Gray's death: Six officers charged </title>
+      <guid>http://edition.cnn.com/2015/05/02/us/freddie-gray-baltimore-death/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/us/freddie-gray-baltimore-death/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 12:14:38 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501200352-baltimore-officers-charged-montage-top-tease.jpeg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501200352-baltimore-officers-charged-montage-top-tease.jpeg" />
+    </item>
+    <item>
+      <title>30 graves, lone survivor found in southern Thailand</title>
+      <guid>http://edition.cnn.com/2015/05/02/asia/thailand-mass-graves/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/asia/thailand-mass-graves/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 12:11:27 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502004558-thailand-graves-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502004558-thailand-graves-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Raped girl, 10, denied abortion in Paraguay</title>
+      <guid>http://edition.cnn.com/2015/05/01/americas/paraguay-girl-rape-pregnancy/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/americas/paraguay-girl-rape-pregnancy/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 12:12:45 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150501225016-pkg-romo-paraguay-pregnant-10-year-old-00020630-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150501225016-pkg-romo-paraguay-pregnant-10-year-old-00020630-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Royal baby: Catherine gives birth to a girl </title>
+      <guid>http://edition.cnn.com/2015/05/02/europe/uk-royal-baby-duchess-of-cambridge-hospitalized/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/02/europe/uk-royal-baby-duchess-of-cambridge-hospitalized/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 12:10:20 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150502120427-royal-baby-fans-celebrate-hospital-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150502120427-royal-baby-fans-celebrate-hospital-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Nigeria: 234 more women, children rescued</title>
+      <guid>http://edition.cnn.com/2015/05/01/africa/nigeria-boko-haram-hostages-rescued/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/africa/nigeria-boko-haram-hostages-rescued/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 02 May 2015 12:13:57 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430160823-nigeria-boko-haram-more-women-freed-00010021-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430160823-nigeria-boko-haram-more-women-freed-00010021-top-tease.jpg" />
+    </item>
+    <item>
+      <title>'Bizarre' bat-winged dinosaur discovered in China</title>
+      <guid>http://edition.cnn.com/2015/04/30/asia/china-dinosaur-yi-qi/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/asia/china-dinosaur-yi-qi/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 10:18:35 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430005252-dinosaur-yi-qi-8-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430005252-dinosaur-yi-qi-8-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Navy escorts U.S. commercial ships near Iran</title>
+      <guid>http://edition.cnn.com/2015/04/30/politics/us-navy-escort-cargo-ships-iran-strait-of-hormuz/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/politics/us-navy-escort-cargo-ships-iran-strait-of-hormuz/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 15:44:33 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/111229123725-map-iran-strait-of-hormuz-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/111229123725-map-iran-strait-of-hormuz-top-tease.jpg" />
+    </item>
+    <item>
+      <title>The week in 33 shots</title>
+      <guid>http://edition.cnn.com/2015/05/01/world/gallery/week-in-photos-0501/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/world/gallery/week-in-photos-0501/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 10:33:08 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430170432-01-week-in-photos-0501-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430170432-01-week-in-photos-0501-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Syria's diseases don't know there's war: A mother's tale</title>
+      <guid>http://edition.cnn.com/2015/05/01/opinions/syria-chronic-health-rafizadeh/index.html</guid>
+      <link>http://edition.cnn.com/2015/05/01/opinions/syria-chronic-health-rafizadeh/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 10:35:38 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150430170512-syria-doctor-file-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150430170512-syria-doctor-file-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Time for Abe to apologize properly</title>
+      <guid>http://edition.cnn.com/2015/04/28/opinions/honda-abe-comfort-women-issue/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/28/opinions/honda-abe-comfort-women-issue/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 10:36:40 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/140818151053-pope-comfort-women---s036314271-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/140818151053-pope-comfort-women---s036314271-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Nepal quake: Tragedy waiting to happen</title>
+      <guid>http://edition.cnn.com/2015/04/25/opinions/stark-nepal-earthquake-geology/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/25/opinions/stark-nepal-earthquake-geology/index.html?eref=edition</link>
+      <description />
+      <pubDate>Mon, 27 Apr 2015 20:57:28 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150425115828-11-nepal-quake-0425-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150425115828-11-nepal-quake-0425-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Why we crave drama of Mayweather-Pacquiao fight</title>
+      <guid>http://edition.cnn.com/2015/04/30/opinions/gottschall-pacquiao-mayweather-fight/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/opinions/gottschall-pacquiao-mayweather-fight/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 30 Apr 2015 08:58:14 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429153411-gottschall-pacquiao-mayweather-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429153411-gottschall-pacquiao-mayweather-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Baltimore rage is shocking? Get real </title>
+      <guid>http://edition.cnn.com/2015/04/30/opinions/granderson-baltimore-rage/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/opinions/granderson-baltimore-rage/index.html?eref=edition</link>
+      <description>Jacob Lawrence's groundbreaking work, "The Migration of the Negro," is a series of 60 small paintings with text depicting the lives of millions of pre-World War II blacks as they moved from the oppressive South to the promise of a better life in the North. One frame in particular, No. 22, shows three black men dressed in their Sunday best, handcuffed, heads bowed standing in front of a window adorned with prison bars. The caption reads:</description>
+      <pubDate>Thu, 30 Apr 2015 09:39:39 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429155005-jacob-lawrence-no-22-restricted-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429155005-jacob-lawrence-no-22-restricted-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Why you should care about the UK election</title>
+      <guid>http://edition.cnn.com/2015/04/30/politics/uk-elections-david-cameron-ed-miliband/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/30/politics/uk-elections-david-cameron-ed-miliband/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 01 May 2015 13:09:46 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150429140811-david-cameron-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150429140811-david-cameron-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Quadruple rainbow awes Internet</title>
+      <guid>http://edition.cnn.com/2015/04/21/us/new-york-quadruple-rainbow/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/21/us/new-york-quadruple-rainbow/index.html?eref=edition</link>
+      <description />
+      <pubDate>Wed, 22 Apr 2015 20:13:30 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150421162725-quadruple-rainbow-irpt-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150421162725-quadruple-rainbow-irpt-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Final Boston runner finishes after 20 hours</title>
+      <guid>http://edition.cnn.com/2015/04/21/us/runner-muscular-dystrophy-boston-marathon-irpt/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/21/us/runner-muscular-dystrophy-boston-marathon-irpt/index.html?eref=edition</link>
+      <description />
+      <pubDate>Tue, 21 Apr 2015 18:05:43 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150421133000-man-with-muscular-dystrophy-finishes-boston-marathon-orig-cm-00003022-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150421133000-man-with-muscular-dystrophy-finishes-boston-marathon-orig-cm-00003022-top-tease.jpg" />
+    </item>
+    <item>
+      <title>S. Africa migrant: 'I'm scared to go to town'</title>
+      <guid>http://edition.cnn.com/2015/04/20/africa/south-africa-immigrants-fear-violence-future-irpt/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/20/africa/south-africa-immigrants-fear-violence-future-irpt/index.html?eref=edition</link>
+      <description />
+      <pubDate>Wed, 22 Apr 2015 04:15:24 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150418022409-south-africa-burned-shop-scenes-from-the-field-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150418022409-south-africa-burned-shop-scenes-from-the-field-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Story of a migrant's harrowing journey</title>
+      <guid>http://edition.cnn.com/2015/04/23/opinions/smuggled-syrian-migrant/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/23/opinions/smuggled-syrian-migrant/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sun, 26 Apr 2015 22:07:02 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150423163714-migrants---s046644079-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150423163714-migrants---s046644079-top-tease.jpg" />
+    </item>
+    <item>
+      <title>The reason why Americans are joining ISIS</title>
+      <guid>http://edition.cnn.com/2015/04/22/politics/isis-recruits-american-arrests/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/22/politics/isis-recruits-american-arrests/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 23 Apr 2015 22:47:24 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/140922104849-isis-militant-flames-of-war-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/140922104849-isis-militant-flames-of-war-top-tease.jpg" />
+    </item>
+    <item>
+      <title>How ISIS controls life from birth to foosball</title>
+      <guid>http://edition.cnn.com/2015/04/21/middleeast/isis-documents/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/21/middleeast/isis-documents/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 23 Apr 2015 00:17:06 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150415150704-01-isis-documents-0416-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150415150704-01-isis-documents-0416-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Are beheadings terrorizing us all?</title>
+      <guid>http://edition.cnn.com/2015/04/20/middleeast/isis-beheadings-psychological-impact/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/20/middleeast/isis-beheadings-psychological-impact/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 23 Apr 2015 22:47:53 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150414130759-beheading-belgium-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150414130759-beheading-belgium-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Why Iran is brimming with optimism</title>
+      <guid>http://edition.cnn.com/2015/04/20/middleeast/iran-parade-pleitgen-amanpour/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/20/middleeast/iran-parade-pleitgen-amanpour/index.html?eref=edition</link>
+      <description />
+      <pubDate>Mon, 20 Apr 2015 22:37:16 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150420160008-iran-military-parade-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150420160008-iran-military-parade-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Hope arrives amid carnage in Yemen</title>
+      <guid>http://edition.cnn.com/2015/04/14/middleeast/npw-unicef-aid-in-yemen/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/14/middleeast/npw-unicef-aid-in-yemen/index.html?eref=edition</link>
+      <description />
+      <pubDate>Mon, 20 Apr 2015 21:09:04 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150414175002-yemen-aid-plane-icrc-red-cross-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150414175002-yemen-aid-plane-icrc-red-cross-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Fleeing ISIS: A family's horrifying tale</title>
+      <guid>http://edition.cnn.com/2015/04/13/middleeast/yazidi-refugee-camp-arwa-damon/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/13/middleeast/yazidi-refugee-camp-arwa-damon/index.html?eref=edition</link>
+      <description />
+      <pubDate>Mon, 13 Apr 2015 20:48:04 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150408180918-lok-damon-iraq-isis-yazidi-captives-released-00003419-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150408180918-lok-damon-iraq-isis-yazidi-captives-released-00003419-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Afghan rape survivor marries attacker</title>
+      <guid>http://edition.cnn.com/2015/04/07/asia/afghanistan-gulnaz-rape-marriage/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/07/asia/afghanistan-gulnaz-rape-marriage/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 10 Apr 2015 00:06:30 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150407162433-afghan-rape-gulnaz-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150407162433-afghan-rape-gulnaz-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Departing Kabul: What NATO left behind</title>
+      <guid>http://edition.cnn.com/2015/04/09/asia/afghanistan-kabul-future-walsh/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/09/asia/afghanistan-kabul-future-walsh/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 09 Apr 2015 23:55:53 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150409105546-pkg-paton-walsh-afghanistan-kabul-waits-00001913-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150409105546-pkg-paton-walsh-afghanistan-kabul-waits-00001913-top-tease.jpg" />
+    </item>
+    <item>
+      <title>The last Americans after longest war</title>
+      <guid>http://edition.cnn.com/2015/04/08/asia/npw-afghanistan-last-us-troops/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/08/asia/npw-afghanistan-last-us-troops/index.html?eref=edition</link>
+      <description />
+      <pubDate>Thu, 09 Apr 2015 23:56:30 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150408162525-us-soldiers-afghanistan-npw-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150408162525-us-soldiers-afghanistan-npw-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Inside the child sex trade in Cambodia</title>
+      <guid>http://edition.cnn.com/2015/04/03/world/cambodia-child-sex-trafficking/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/03/world/cambodia-child-sex-trafficking/index.html?eref=edition</link>
+      <description />
+      <pubDate>Tue, 07 Apr 2015 02:19:57 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150403102941-cambodia-sex-revisit-freedom-project-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150403102941-cambodia-sex-revisit-freedom-project-top-tease.jpg" />
+    </item>
+    <item>
+      <title>The simple solution to Asia's myopia epidemic</title>
+      <guid>http://edition.cnn.com/2015/04/05/asia/myopia-east-asia/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/05/asia/myopia-east-asia/index.html?eref=edition</link>
+      <description />
+      <pubDate>Tue, 07 Apr 2015 02:25:07 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150331115950-high-school-students-in-eyeglasses-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150331115950-high-school-students-in-eyeglasses-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Children for sale in Nigerian camp</title>
+      <guid>http://edition.cnn.com/2015/03/23/africa/nigeria-children-for-sale/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/23/africa/nigeria-children-for-sale/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 10 Apr 2015 00:08:10 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150323200604-erin-dnt-elbagir-nigeria-children-for-sale-00032720-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150323200604-erin-dnt-elbagir-nigeria-children-for-sale-00032720-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Left in Tikrit: Booby traps, IEDs, fear</title>
+      <guid>http://edition.cnn.com/2015/04/01/middleeast/iraq-isis-tikrit/index.html</guid>
+      <link>http://edition.cnn.com/2015/04/01/middleeast/iraq-isis-tikrit/index.html?eref=edition</link>
+      <description />
+      <pubDate>Wed, 01 Apr 2015 19:55:58 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150401182844-isis-driven-from-tikrit---s045690651-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150401182844-isis-driven-from-tikrit---s045690651-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Why many Chinese parents don't want two</title>
+      <guid>http://edition.cnn.com/2015/03/30/asia/china-one-child-policy-undo/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/30/asia/china-one-child-policy-undo/index.html?eref=edition</link>
+      <description />
+      <pubDate>Wed, 01 Apr 2015 19:57:47 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150324165113-china-boy-reflection-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150324165113-china-boy-reflection-top-tease.jpg" />
+    </item>
+    <item>
+      <title>CNN exclusive with jailed ISIS fighters </title>
+      <guid>http://edition.cnn.com/2015/03/30/middleeast/isis-behind-bars-exclusive/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/30/middleeast/isis-behind-bars-exclusive/index.html?eref=edition</link>
+      <description />
+      <pubDate>Wed, 01 Apr 2015 19:57:15 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150330212733-sulaiman-and-ali-khalil-split-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150330212733-sulaiman-and-ali-khalil-split-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Scaling new heights for good grades</title>
+      <guid>http://edition.cnn.com/2015/03/20/asia/india-cheating-parents-school-tests/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/20/asia/india-cheating-parents-school-tests/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sun, 22 Mar 2015 20:51:00 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150320113558-bihar-parents-exam-cheats-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150320113558-bihar-parents-exam-cheats-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Amazing photos from total solar eclipse</title>
+      <guid>http://edition.cnn.com/2015/03/20/world/gallery/solar-eclipse-march-2015/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/20/world/gallery/solar-eclipse-march-2015/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 21 Mar 2015 08:41:23 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150320070311-01-eclipse-0320-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150320070311-01-eclipse-0320-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Divers explore fossil graveyard</title>
+      <guid>http://edition.cnn.com/2015/03/19/africa/underwater-fossil-lemur-graveyard-madagascar/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/19/africa/underwater-fossil-lemur-graveyard-madagascar/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 21 Mar 2015 04:23:48 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150318175135-lemur-fossil-graveyard-madagascar-underwater-cave-diving-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150318175135-lemur-fossil-graveyard-madagascar-underwater-cave-diving-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Rare photos of bin Laden's hideout</title>
+      <guid>http://edition.cnn.com/2015/03/11/world/osama-bin-laden-hideout-photos/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/11/world/osama-bin-laden-hideout-photos/index.html?eref=edition</link>
+      <description />
+      <pubDate>Sat, 21 Mar 2015 04:26:40 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150311142826-38-obl-photos-43-top-tease.png" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150311142826-38-obl-photos-43-top-tease.png" />
+    </item>
+    <item>
+      <title>Inside Iran: The road to Esfahan</title>
+      <guid>http://edition.cnn.com/2015/03/12/travel/road-to-esfahan/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/12/travel/road-to-esfahan/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 13 Mar 2015 01:11:57 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150310163122-iran-esfahan-blue-tiles-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150310163122-iran-esfahan-blue-tiles-top-tease.jpg" />
+    </item>
+    <item>
+      <title>Tipping in the U.S.? It's complicated</title>
+      <guid>http://edition.cnn.com/2015/03/02/travel/experts-guide-to-tipping-in-the-united-states/index.html</guid>
+      <link>http://edition.cnn.com/2015/03/02/travel/experts-guide-to-tipping-in-the-united-states/index.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 13 Mar 2015 08:18:08 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150302143142-tipping-tip-jar-i-top-tease.jpg" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150302143142-tipping-tip-jar-i-top-tease.jpg" />
+    </item>
+    <item>
+      <title>9 billion years later, see star explode</title>
+      <guid>http://edition.cnn.com/video/data/2.0/video/tech/2015/03/06/pkg-orig-hubble-supernova-explode-nine-billion-years.cnn.html</guid>
+      <link>http://edition.cnn.com/video/data/2.0/video/tech/2015/03/06/pkg-orig-hubble-supernova-explode-nine-billion-years.cnn.html?eref=edition</link>
+      <description />
+      <pubDate>Fri, 13 Mar 2015 10:09:46 EDT</pubDate>
+      <media:thumbnail height="51" width="90" url="http://i2.cdn.turner.com/cnn/dam/assets/150306091907-hubble-supernova-explodes-star-nine-billion-years-02-top-tease.png" />
+      <media:content height="51" width="90" medium="image" type="image/jpeg" url="http://i2.cdn.turner.com/cnn/dam/assets/150306091907-hubble-supernova-explodes-star-nine-billion-years-02-top-tease.png" />
+    </item>
+  </channel>
+</rss>
