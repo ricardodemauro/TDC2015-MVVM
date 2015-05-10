@@ -7,12 +7,16 @@
     xmlns:ignore="http://www.ignore.com"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     mc:Ignorable="d ignore"
-    xmlns:vm="using:ListaDeLeitura.ViewModel">
+    xmlns:vm="using:ListaDeLeitura.ViewModel"
+    xmlns:converter="using:ListaDeLeitura.Converters">
     
     <Application.Resources>
         <ResourceDictionary>
             <vm:ViewModelLocator x:Key="Locator"
                                  d:IsDataSource="True" />
+            <converter:DateConverter x:Key="DateConverter" />
+            <converter:StringToImageConverter x:Key="StringToImageConverter" />
+            
             <x:String x:Key="AppName">Lista de Leitura</x:String>
             <x:String x:Key="ShareName">Compartilhar</x:String>
         </ResourceDictionary>

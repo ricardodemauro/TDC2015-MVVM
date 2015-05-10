@@ -33,5 +33,12 @@ namespace ListaDeLeitura.Model
             get { return pubDate; }
             set { SetProperty(ref pubDate, value); }
         }
+
+        private string thumbnail;
+        public string Thumbnail
+        {
+            get { return thumbnail; }
+            set { SetProperty(ref thumbnail, value); }
+        }
     }
 }

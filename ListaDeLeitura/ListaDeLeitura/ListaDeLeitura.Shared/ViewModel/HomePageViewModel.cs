@@ -19,6 +19,23 @@ namespace ListaDeLeitura.ViewModel
 
         public ObservableCollection<RssArticle> Items { get; set; }
 
+        private RssArticle _selectedArticle;
+        public RssArticle SelectedArticle
+        {
+            get
+            {
+#if DEBUG
+                if (IsInDesignModeStatic)
+                {
+                    return Items[0];
+                }
+#endif
+                return _selectedArticle;
+
+            }
+            set { SetProperty(ref _selectedArticle, value); }
+        }
+
         private bool _refreshing;
         public bool Refreshing
         {
@@ -30,10 +47,15 @@ namespace ListaDeLeitura.ViewModel
         {
             this.Items = new ObservableCollection<RssArticle>();
 
-            this.NavigateToArticleCommand = new RelayCommand(OnNavigateToArticleCommand);
+            this.NavigateToArticleCommand = new RelayCommand(OnNavigateToArticleCommand, CanExecuteNavigateToArticleCommand);
             this.RefreshCommand = new RelayCommand(OnRefreshCommand, CanExecuteRefreshCommand);
 
             Refresh();
+        }
+
+        private bool CanExecuteNavigateToArticleCommand(object parameter)
+        {
+            return SelectedArticle != null;
         }
 
         private void OnNavigateToArticleCommand(object parameter)

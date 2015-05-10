@@ -1,12 +1,13 @@
-﻿using System;
+﻿using ListaDeLeitura.ViewModel.Message;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 
-namespace ListaDeLeitura.ViewModel.Message.Handler
+namespace ListaDeLeitura.ViewModel.Service
 {
-    public static class NavigateMessageHandler
+    public static class NavigationMessageService
     {
         public static void NavigateMessage(NavigateMessage message)
         {
@@ -21,7 +22,7 @@ namespace ListaDeLeitura.ViewModel.Message.Handler
             }
             else
             {
-                var sourcePageType = Type.GetType(string.Format("AdventureWorksCatalog.View.{0}", message.PageName));
+                var sourcePageType = Type.GetType(string.Format("ListaDeLeitura.View.{0}", message.PageName));
                 rootFrame.Navigate(sourcePageType, message.Parameter);
             }
         }

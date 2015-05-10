@@ -15,16 +15,17 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\DateConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\StringToImageConverter.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DataSource\IRssDataSource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DataSource\RssDataSource.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\RssArticle.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\ModelBase.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Model\RssImage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ArticlePageViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Service\NavigationMessageService.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ViewModelBase.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Command\RelayCommand.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\HomePageViewModel.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\Handler\NavigateMessageHandler.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\Messenger.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\Message\NavigateMessage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ViewModelLocator.cs" />

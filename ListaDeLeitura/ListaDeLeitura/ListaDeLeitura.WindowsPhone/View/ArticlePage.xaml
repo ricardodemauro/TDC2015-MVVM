@@ -6,9 +6,28 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding Main, Source={StaticResource Locator}}">
 
     <Grid>
-
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid Margin="10,10,10,530" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Image HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   Stretch="Uniform" 
+                   Source="{Binding SelectedArticle.Thumbnail, Converter={StaticResource StringToImageConverter}}"/>
+            <StackPanel HorizontalAlignment="Left" Height="100" VerticalAlignment="Center" Width="270" Grid.Column="1" Margin="10,0,0,0">
+                <TextBlock x:Name="titleTextBlock" Text="{Binding SelectedArticle.Title}" TextWrapping="WrapWholeWords" FontSize="21.333" TextTrimming="WordEllipsis" Margin="0,0,-190,0" HorizontalAlignment="Left" VerticalAlignment="Center" Width="290" />
+                    <TextBlock x:Name="pubdateTextblock" HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding SelectedArticle.PubDate, Converter={StaticResource DateConverter}}" VerticalAlignment="Top"/>
+            </StackPanel>
+        </Grid>
+        <TextBlock x:Name="summaryTextBlock" Grid.Row="1" HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding SelectedArticle.Summary}" VerticalAlignment="Top" Height="Auto" MaxWidth="400" FontSize="18.667" Width="380" Margin="10,10,0,0"/>
     </Grid>
 </Page>
