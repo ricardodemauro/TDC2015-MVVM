@@ -34,12 +34,11 @@ namespace ListaDeLeituraInicial.DataSource
                     itemXml => new RssArticle
                     {
                         Link = new Uri(itemXml.Element("link").Value),
-                        Title = itemXml.Element("title").Value,
-                        Summary = itemXml.Element("description").Value,
-                        PubDate = ConvertPubDate(itemXml.Element("pubDate").Value),
-                        Thumbnail = itemXml.Element(dcM + "thumbnail") != null ? itemXml.Element(dcM + "thumbnail").Attribute("url").Value : string.Empty
+                        Titulo = itemXml.Element("title").Value,
+                        Descricao = itemXml.Element("description").Value,
+                        DataPublicacao = ConvertPubDate(itemXml.Element("pubDate").Value)
                     })
-                .ToList();
+                .Take(3).ToList();
 
             return list;
         }
